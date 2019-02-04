@@ -1,0 +1,11 @@
+# eclipse
+.classpath
+.settings
+.project
+.cache-main
+.cache-tests
+
+target
+
+# mac
+.DS_Store

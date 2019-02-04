@@ -1,6 +1,7 @@
 # Mastering Advanced Scala - Denis Kalinin
-(URL) https://leanpub.com/mastering-advanced-scala
-(Git) https://github.com/denisftw/advanced-scala-code
+URL (https://leanpub.com/mastering-advanced-scala)
+
+Git (https://github.com/denisftw/advanced-scala-code)
 
 ## Advanced language features
 * Implicit parameters
